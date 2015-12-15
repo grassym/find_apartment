@@ -1,0 +1,10 @@
+http://outofmemoryblog.blogspot.co.uk/2012/08/python-development-with-sublime-text-2.html
+https://dbader.org/blog/setting-up-sublime-text-for-python-development
+
+
+path_to_sublime = cd /Users/olia/Library/Application\ Support/Sublime\ Text\ 2/
+color_schemes_zoo = http://colorsublime.com/
+PYTHON_AUTOCOMPLETE_1 = https://github.com/Kronuz/SublimeCodeIntel
+run python code in sublime2 = https://github.com/wuub/SublimeREPL
+PYTHON_AUTOCOMPLETE_2 = https://github.com/JulianEberius/SublimeRope
+pylint = to check later :)
